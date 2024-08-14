@@ -12,10 +12,10 @@ EndPoint: A API expõe um endpoint /laptops/lenovo que retorna os dados coletado
 Node.js: Plataforma utilizada para executar o código JavaScript do lado do servidor.
 Axios: Biblioteca para fazer requisições HTTP de maneira simples e eficiente.
 Cheerio: Biblioteca utilizada para manipular e extrair dados de documentos HTML, simulando o comportamento do jQuery no lado do servidor.
-Como Utilizar:
+## Como Utilizar:
 Instalação: Clone o repositório e instale as dependências utilizando npm install.
 Execução: Inicie o servidor com o comando node index.js.
 Acesso: Acesse http://localhost:3000/laptops/lenovo para visualizar os dados dos notebooks Lenovo ordenados.
-Observações:
+## Observações:
 Este projeto foi desenvolvido como parte de um teste de estágio, focando em práticas de scraping e manipulação de dados. Ele demonstra habilidades em JavaScript, web scraping, manipulação de dados e construção de APIs RESTful.
 
